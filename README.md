@@ -1,4 +1,4 @@
-### Hello, I am Igor Soroka - independendent software consultant based in Helsinki 🇫🇮
+### Hello, I am Igor Soroka - independent software consultant based in Helsinki 🇫🇮
 
 I have a company called **Soroka Tech** ([finder.fi](https://www.finder.fi/IT-konsultointi+IT-palvelut/Soroka+Tech/Helsingfors/yhteystiedot/3489403)). 
 
