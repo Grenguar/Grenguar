@@ -36,7 +36,7 @@ A workshop where I showed Typescript and Java code doing the same.<br/>
 Type: Backend<br/>
 Keywords: _Java, MongoDB, Docker_<br/>
 
-- 🤖 **Smart event chatbot ([code](https://github.com/Grenguar/event-chatbot-api-ts))**<br/>
+- 🤖 **Smart event chatbot ([code](https://github.com/Grenguar/event-chatbot-api-ts)/[blog](https://medium.com/@igorsoroka/junction-81df9c8e87a7))**<br/>
 Multiplatform bot with NLP features to give the information of the cultural event.<br/>
 Type: Backend<br/>
 Keywords: _AWS DynamoDB, AWS Translate, [Recast AI](https://cai.tools.sap/), Typescript_<br/>
