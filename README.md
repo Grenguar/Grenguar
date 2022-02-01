@@ -1,7 +1,5 @@
 ### Hello, I am Igor Soroka - independent software consultant based in Helsinki 🇫🇮
 
-I have a company called **Soroka Tech** ([finder.fi](https://www.finder.fi/IT-konsultointi+IT-palvelut/Soroka+Tech/Helsingfors/yhteystiedot/3489403)). 
-
 - 💬 Ask me about AWS, Serverless and NodeJS/Typescript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-soroka) or by igor[at]soroka.tech
 - I am 5xAWS Certified (the highest achievement: DevOps Engineer Professional)
