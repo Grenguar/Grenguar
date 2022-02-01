@@ -4,8 +4,15 @@ I have a company called **Soroka Tech** ([finder.fi](https://www.finder.fi/IT-ko
 
 - 💬 Ask me about AWS, Serverless and NodeJS/Typescript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-soroka) or by igor[at]soroka.tech
+- I am 5xAWS Certified (the highest achievement: DevOps Engineer Professional)
+- A proud member of AWS Community Builders program
 
 Here are my example projects:
+- ⛷ **Skiing Track Condition Notifier([code](https://github.com/Grenguar/ski-track-condition-notifier)/[blog](https://dev.to/aws-builders/very-nordic-problem-in-search-of-great-skiing-track-34db))**<br/>
+Get notifications about best available conditions of ski tracks in Finland by E-mail.
+Type: Backend
+Keywords: _TypeScript, NodeJS, AWS, Serverless, AWS Lambda, AWS SNS, jest_
+
 - 🚙 **Serverless Fuel API ([code](https://github.com/Grenguar/fuel-api-finland-serverless)/[blog](https://medium.com/@igorsoroka/building-serverless-fuel-api-part-i-13c59bcbf318))**<br/>
 API that provides current fuel prices in Finland.<br/> 
 Type: Backend<br/>
