@@ -9,8 +9,8 @@ I have a company called **Soroka Tech** ([finder.fi](https://www.finder.fi/IT-ko
 
 Here are my example projects:
 - ⛷ **Skiing Track Condition Notifier([code](https://github.com/Grenguar/ski-track-condition-notifier)/[blog](https://dev.to/aws-builders/very-nordic-problem-in-search-of-great-skiing-track-34db))**<br/>
-Get notifications about best available conditions of ski tracks in Finland by E-mail.
-Type: Backend
+Get notifications about best available conditions of ski tracks in Finland by E-mail.<br/> 
+Type: Backend<br/>
 Keywords: _TypeScript, NodeJS, AWS, Serverless, AWS Lambda, AWS SNS, jest_
 
 - 🚙 **Serverless Fuel API ([code](https://github.com/Grenguar/fuel-api-finland-serverless)/[blog](https://medium.com/@igorsoroka/building-serverless-fuel-api-part-i-13c59bcbf318))**<br/>
