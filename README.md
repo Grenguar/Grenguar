@@ -1,13 +1,13 @@
-### Hello, I am Igor Soroka - independent software consultant based in Finland 🇫🇮
+### Hello, I am Igor Soroka - an independent software consultant based in Spain
 
-- 💬 Ask me about AWS, Serverless and NodeJS/Typescript
+- 💬 Ask me about AWS, Serverless, and NodeJS/Typescript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-soroka) or by igor[at]soroka.tech
-- I am 6xAWS Certified (DevOps Engineer Professional and Solutions Architect Professional)
-- A proud member of AWS Community Builders program
+- I am 7xAWS Certified (DevOps Engineer Professional and Solutions Architect Professional, Security Specialty)
+- A proud member of the AWS Community Builders program
 
 Here are my example projects:
 - ⛷ **Skiing Track Condition Notifier([code](https://github.com/Grenguar/ski-track-condition-notifier)/[blog](https://dev.to/aws-builders/very-nordic-problem-in-search-of-great-skiing-track-34db))**<br/>
-Get notifications about best available conditions of ski tracks in Finland by E-mail.<br/> 
+Get notifications about the best available conditions of ski tracks in Finland by E-mail.<br/> 
 Type: Backend<br/>
 Keywords: _TypeScript, NodeJS, AWS, Serverless, AWS Lambda, AWS SNS, jest_
 
@@ -42,6 +42,6 @@ Type: Backend<br/>
 Keywords: _Java, MongoDB, Docker_<br/>
 
 - 🤖 **Smart event chatbot ([code](https://github.com/Grenguar/event-chatbot-api-ts)/[blog](https://medium.com/@igorsoroka/junction-81df9c8e87a7))**<br/>
-Multiplatform bot with NLP features to give the information of the cultural event.<br/>
+A multiplatform bot with NLP features to give information about the cultural event.<br/>
 Type: Backend<br/>
 Keywords: _AWS DynamoDB, AWS Translate, [Recast AI](https://cai.tools.sap/), Typescript_<br/>
